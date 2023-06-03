@@ -1,0 +1,44 @@
+body
+{
+background-size: cover;
+}
+.heading{
+    text-align: left;
+    width: 100%;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float: right;
+    border: 1px solid rgb(195, 146, 55);
+    font-size: 22px;
+    box-shadow: 5px 5px 5px rgba(201, 73, 44, 0.502);
+}
+.big_image{
+    width: 100%;
+}
+#start,#status{
+    font-size: 22px;
+}
+.footer{
+    background-color: rgb(158, 227, 205);
+    color: #861010;
+    width: 100%;
+    position: fixed;
+    border: 5px;
+    bottom: 0;
+    font-weight: bold;
+
+}
+ol{
+    font-size: 23px;
+    
+}
+.modal-dialog{
+    width: 70%;
+}
+#restart{
+    font-size: 22px;
+    
+}
